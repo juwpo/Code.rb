@@ -1,4 +1,4 @@
-#Шифрование
+#Шифрование 2571af5a34df9ff5473cd9cf8776588131b1e3de
 if Gem.win_platform?
   Encoding.default_external = Encoding.find(Encoding.locale_charmap)
   Encoding.default_internal = __ENCODING__
